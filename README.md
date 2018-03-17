@@ -4,11 +4,12 @@ tsharp: T#, Cognitive language in Alan Turing honor, in this project we develop 
 ## Language design
 
 ### Grammar
-Variables: [a..z][A..Z][0..9][_]
+```Variables: [a..z][A..Z][0..9][_]
 Keywords: talk, listen, train, intent, entity, cognitive source
 Strings:
 Numbers:
 Space:
-
+```
 ### Syntax
-vars = input,function,output
+```vars = input,function,output
+```
